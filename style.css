@@ -1,0 +1,16 @@
+#html   
+header{
+    position: fixed;
+    align-items: center;
+    
+}
+body{
+    background-color:lightgray;
+    
+}
+.img{
+   
+    width: 60vh;
+    position: relative;
+    margin-top: 15px;
+}
